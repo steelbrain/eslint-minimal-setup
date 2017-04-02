@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "eslint-config-steelbrain": "^3.0.0"
+  }
+}
