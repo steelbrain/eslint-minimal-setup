@@ -1,5 +1,7 @@
 # ESLint minimal setup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/eslint-minimal-setup.svg)](https://greenkeeper.io/)
+
 This repository is a minimal setup of ESLint. You can copy `.eslintrc.json` and the `devDependencies` part of `package.json`.
 
 # Setup
